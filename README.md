@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Cris Beringuela, Im from ![Philippine Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png)
-
-- I'm a passionate Software Engineer and tech enthusiast who loves coding, problem-solving, and contributing to open-source projects. I'm constantly learning new technologies and improving my skills.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, MySQL Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Cris Beringuela from PH
+   "I'm an aspiring Software Engineer and tech enthusiast with a passion for coding, problem-solving, and exploring new technologies. While I'm still learning and growing in the field, I enjoy contributing to open-source projects and continuously improving my skills. " 
+- 🔧 Tech Stack
+  **Languages:** Python, HTML, CSS
+  **Frameworks & Libraries:** Tkinter, CustomTkinter
+  **Tools**: Git, GitHub
+  **Databases:** MySQL
+- 🌱 I’m currently learning Python, MySQL
+- 📫 How to reach me:
+    Github: [Soshiro-Hoshina](https://github.com/Soshiro-Hoshina)
+    Facebook: https://www.facebook.com/wooodnt
+- ⚡ Fun fact:
+ I'm passionate about playing computer games when I'm not coding.
 
 <!---
 Soshiro-Hoshina/Soshiro-Hoshina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
