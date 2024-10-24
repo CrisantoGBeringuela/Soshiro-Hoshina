@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Soshiro-Hoshina (myIGN)
+- 👋 Hi, I’m Cris Beringuela from ph
+- I'm a passionate Software Engineer and tech enthusiast who loves coding, problem-solving, and contributing to open-source projects. I'm constantly learning new technologies and improving my skills.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, MySQL Language
 - 💞️ I’m looking to collaborate on ...
