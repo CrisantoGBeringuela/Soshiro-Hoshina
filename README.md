@@ -12,6 +12,7 @@
 - ⚡ Fun fact:
  I'm passionate about playing computer games when I'm not coding.
 
+
 <!---
 Soshiro-Hoshina/Soshiro-Hoshina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
