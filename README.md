@@ -8,7 +8,9 @@
   **Databases:** MySQL
 - 🌱 I’m currently learning Python, MySQL
 - 📫 How to reach me:
+  
     Github: [Soshiro-Hoshina](https://github.com/Soshiro-Hoshina)
+
     Facebook: https://www.facebook.com/wooodnt
 - ⚡ Fun fact:
  I'm passionate about playing computer games when I'm not coding.
