@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Cris Beringuela from PH
+  
    "I'm an aspiring Software Engineer and tech enthusiast with a passion for coding, problem-solving, and exploring new technologies. While I'm still learning and growing in the field, I enjoy contributing to open-source projects and continuously improving my skills. " 
 - 🔧 Tech Stack
   **Languages:** Python, HTML, CSS
