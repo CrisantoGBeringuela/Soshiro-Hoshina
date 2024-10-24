@@ -2,9 +2,13 @@
   
    "I'm an aspiring Software Engineer and tech enthusiast with a passion for coding, problem-solving, and exploring new technologies. While I'm still learning and growing in the field, I enjoy contributing to open-source projects and continuously improving my skills. " 
 - 🔧 Tech Stack
+  
   **Languages:** Python, HTML, CSS
+
   **Frameworks & Libraries:** Tkinter, CustomTkinter
+
   **Tools**: Git, GitHub
+
   **Databases:** MySQL
 - 🌱 I’m currently learning Python, MySQL
 - 📫 How to reach me:
