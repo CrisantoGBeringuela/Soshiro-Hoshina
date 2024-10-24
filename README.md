@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Cris Beringuela from ph
+- 👋 Hi, I’m Cris Beringuela, Im from ![Philippine Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png)
+
 - I'm a passionate Software Engineer and tech enthusiast who loves coding, problem-solving, and contributing to open-source projects. I'm constantly learning new technologies and improving my skills.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, MySQL Language
