@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - Student Management System (Simple Management System)<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
+  - Student Management System (with mySQL database)<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
   - RFID Base System for Pet Health Monitoring and Diagnosis System for Veterinary Clinics (Data Managing System using RFID Arduinno)
 
 <h2>🌱Small Project [Python]</h2>
