@@ -6,7 +6,9 @@
 
 - <b>Python</b>
   - Student Management System (mySQL database)<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
-  - RFID Base System for Pet Health Monitoring and Diagnosis System for Veterinary Clinics (Data Managing System using RFID Arduinno)
+  - RFID Base Pet Health Record (Data Managing System using RFID Arduinno) (https://github.com/CrisantoGBeringuela/RFID-Base-Pet-health-Record)
+  - IOT - Pet Tracking System using GPS Technology (https://github.com/CrisantoGBeringuela/IOT-Base---GPS-Stray-Animal-Tracker)
+  - IOT - Smart Reverse Vending Machine with RFID-Based Incentives
 
 <h2>🌱Small Project [Python]</h2>
 
@@ -20,6 +22,7 @@
 - **Languages:** Python, HTML, CSS
 - **Tools:** Git, GitHub
 - **Databases:** MySQL
+- **Hardware:** Arduino Uno (RFID,Ultra Sonnic), Raspberry Zero 2W
 
 <h2> 🤳 Connect with me:</h2>
 
