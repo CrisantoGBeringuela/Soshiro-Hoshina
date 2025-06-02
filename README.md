@@ -6,9 +6,9 @@
 
 - <b>Python</b>
   - Student Management System (mySQL database)<!--(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
-  - RFID Base Pet Health Record (Data Managing System using RFID Arduinno) (https://github.com/CrisantoGBeringuela/RFID-Base-Pet-health-Record)
-  - IOT - Pet Tracking System using GPS Technology (https://github.com/CrisantoGBeringuela/IOT-Base---GPS-Stray-Animal-Tracker)
-  - IOT - Smart Reverse Vending Machine with RFID-Based Incentives
+  - [RFID Base Pet Health Record (Data Managing System using RFID Arduinno)] (https://github.com/CrisantoGBeringuela/RFID-Base-Pet-health-Record)
+  - [IOT - Pet Tracking System using GPS Technology(Tracking Device using Raspberry Zero 2W & Neom 6M)] (https://github.com/CrisantoGBeringuela/IOT-Base---GPS-Stray-Animal-Tracker)
+  - [IOT - Smart Reverse Vending Machine with RFID-Based Incentives]
 
 <h2>🌱Small Project [Python]</h2>
 
